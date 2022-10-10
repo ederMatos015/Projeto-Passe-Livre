@@ -1,0 +1,32 @@
+.home-usuario {
+    width: 450px;
+    position: static;
+    margin: auto;
+    margin-top: 0;
+}
+
+.logoHome-usuario {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.bemVindo {
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.botoesUsuario { 
+    text-align: center;
+}
+
+.btn {
+    margin-top: 9px;
+    margin-bottom: 9px;
+    width: 230px;
+}
+
+.footerUsuario {
+    margin-right: 100px;
+}

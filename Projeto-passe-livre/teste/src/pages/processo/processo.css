@@ -1,0 +1,108 @@
+.processo {
+    min-height: 100vh;
+    min-width: 100vh;
+}
+
+.esquerdaProcesso {
+    margin-right: 25%;
+
+}
+
+.processoInfo {
+    background-color: rgb(255, 255, 255, 0.4);
+    box-shadow: 2px 2px 5px rgb(0, 0, 0, 0.2);
+    border-radius: 10px;
+    padding: 8px;
+    display: flex;
+    position: absolute;
+    width: 1250px;
+    margin-left: 15px;
+    margin-top: 15px;
+    height: 565px;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+
+#label {
+    font-size: large;
+}
+
+#form {
+    font-size: large;
+    width: 300px;
+    height: 40px;
+    margin-bottom: 10px;
+}
+
+.coluna1 {
+    position: relative;
+
+}
+
+.coluna2 {
+    position: relative;
+}
+
+.coluna3 {
+    position: relative;
+}
+
+.direitaProcesso {
+    margin-left: 75%;
+}
+
+.documentos {
+    position: absolute;
+    text-align: center;
+    background-color: rgb(255, 255, 255, 0.4);
+    box-shadow: 2px 2px 5px rgb(0, 0, 0, 0.2);
+    border-radius: 10px;
+    margin-left: 90px;
+    margin-top: 15px;
+    width: 290px;
+
+}
+
+#icone {
+    padding: 15px;
+    
+}
+
+#situacao {
+    position: absolute;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255, 0.4);
+    box-shadow: 2px 2px 5px rgb(0, 0, 0, 0.2);
+    border-radius: 10px;
+    margin-left: 90px;
+    margin-top: 265px;
+    width: 290px;
+}
+
+#status {
+    color: yellow;
+}
+
+.definir {
+    position: absolute;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255, 0.4);
+    box-shadow: 2px 2px 5px rgb(0, 0, 0, 0.2);
+    border-radius: 10px;
+    margin-left: 90px;
+    margin-top: 385px;
+    width: 290px;
+    height: 195px;
+}
+
+#btnDefinir {
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 9px;
+}

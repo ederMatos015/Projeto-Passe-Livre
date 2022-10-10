@@ -1,0 +1,26 @@
+.logoHome-servidor {
+    position: absolute;
+    margin-left: 23%;
+    margin-top: 12%;
+
+}
+
+.botoes { 
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 9%;
+}
+
+.btn {
+    margin-top: 9px;
+    margin-bottom: 9px;
+    width: 230px;
+}
+
+.esquerda {
+    margin-right: 50%;
+}
+
+.direita {
+    margin-left: 50%;
+}

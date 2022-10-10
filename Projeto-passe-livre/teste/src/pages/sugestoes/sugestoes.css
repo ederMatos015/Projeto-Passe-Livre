@@ -1,0 +1,78 @@
+#body {
+    background-image: url(../../img/fundo-login.png);
+    display:flex;
+    justify-content: center;
+    align-content:center;
+    min-height: 100vh;
+    min-width: 100vh;
+}  
+
+#bloco {  
+    display: inline-block;
+    align-content: center;
+    height: 400px;
+    width: 400px;
+    background-color: rgb(255, 255, 255, 0.4);
+    box-shadow: 4px 4px 8px rgb(0, 0, 0, 0.2);
+    border-radius: 10px;
+    margin-top: 200px;
+             
+}
+
+#avalieNos {
+    text-align: center;
+    padding: 15px;
+}
+
+#suaOpiniao {
+    text-align: center;
+    padding: 8px;
+}
+
+input[type="radio"] {
+    display: none;
+    
+}
+
+.star {
+    position: relative;
+    cursor: pointer;
+    transition: color 200ms;
+    top: 20px;
+    left: 100px
+}
+
+#suaNota {
+    position: relative;
+    top: 8%;
+    left: 40%;
+}
+
+#comentario {
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    border-radius: 10px;
+    height: 80px;
+    width: 255px;
+    opacity: 40%;
+    top: 4%;
+    left: 75px;
+    border-color: rgb(56, 6, 6);
+}
+
+#botao {
+    position: relative;
+    top: 20%;
+    left: -23%;
+    height: 35px;
+    width: 90px;
+    border-radius: 5px;
+    background-color: rgb(0, 100, 255);
+    color: white;
+    border: none;
+}
+
+#estrela {
+    position: relative;
+}

@@ -1,0 +1,34 @@
+#formBackgroundCadastrar {
+    background-color: rgb(255, 255, 255, 0.4);
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+    width: 560px;
+    box-shadow: 2px 2px 5px rgb(0, 0, 0, 0.2);
+    border-radius: 10px;
+    
+}
+
+.formularioCadastrar{
+    width: 500px;
+    text-align: right;
+    margin: auto;
+    margin-bottom: 25px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#confirme {
+    font-size: 18px;
+}
+
+.formBackgroundCadastrar{
+    background-color: rgb(255, 255, 255, 0.4);
+    padding: 10px;
+    margin: auto;
+    width: 560px;
+    margin-top: 60px;
+    box-shadow: 2px 2px 5px rgb(0, 0, 0, 0.2);
+    border-radius: 10px;
+}

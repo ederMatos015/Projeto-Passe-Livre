@@ -1,0 +1,22 @@
+.home-adm {
+    width: 450px;
+    position: static;
+    margin: auto;
+    margin-top: 0;
+}
+
+.logoHome-adm {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.botoesAdm { 
+    text-align: center;
+}
+
+.btn {
+    margin-top: 9px;
+    margin-bottom: 9px;
+    width: 230px;
+}
